@@ -1,0 +1,2 @@
+# "with" brings keys of a set into scope
+with {key1 = 1;}; key1 + 1
