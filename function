@@ -1,3 +1,6 @@
 # Nix functions generally have the form:
 { x, y, ..., z }: e
 # where x, y, etc. are the names of the expected arguments, and where e is the body of the function
+
+# named function
+add1 = x: x + 1
