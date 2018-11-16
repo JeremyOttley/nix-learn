@@ -1,0 +1,2 @@
+# use a double + for combining lists
+[ 1 2 "string" {key = 1;} ] ++ [4]
